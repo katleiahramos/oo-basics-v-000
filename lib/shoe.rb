@@ -10,6 +10,7 @@ attr_accessor :color, :size, :material, :condition
 
 def cobble
 puts "The shoe has been repaird!"
+@condition = new 
 end
 
 
